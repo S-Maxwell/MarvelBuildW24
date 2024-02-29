@@ -3,8 +3,8 @@ This is repo is for the Marvel Build we are doing in class for Week 8. It demons
 
 <snippet>
   <content>
-# ${1:Project Name}
-TODO: Write a project description
+# <Marvel Assignment>
+This is an in class assignment. 
 ## Installation
 No installation is required.
 ## Usage
@@ -16,7 +16,7 @@ Open the index file in the browser of your choice.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
-TODO: Write history
+Created by Sashoye Maxwell
 ## Credits
 Sashoye Maxwell
 ## License
