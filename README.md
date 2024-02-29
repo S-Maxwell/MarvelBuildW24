@@ -2,7 +2,7 @@
 This is repo is for the Marvel Build we are doing in class for Week 8. It demonstrates the CSS Sprites being learnt in class.
 
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1:Project Name}
 TODO: Write a project description
 ## Installation
@@ -21,6 +21,6 @@ TODO: Write history
 Sashoye Maxwell
 ## License
 MIT-See license file for more information.
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
